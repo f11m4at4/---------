@@ -1,0 +1,9 @@
+1. EngineDefault.ini 파일에 아래 내용 추가
+
+[/Script/Engine.GameEngine]
++NetDriverDefinitions=(DefName="DemoNetDriver",DriverClassName="/Script/Engine.DemoNetDriver",DriverClassNameFallback="/Script/Engine.DemoNetDriver")
+
+
+2. UGameInstance.h 에 #include "NetworkReplayStreaming.h" 추가
+
+3. [Project].build.cs 에 "Json" 모듈 추가

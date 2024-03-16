@@ -1,0 +1,9 @@
+DisableAllScreenMesseges : 디스플레이 로그 비활성화
+Stat FPS : 프레임 레이트 출력
+Stat MemoryPlatform : 종합적인 메모리 사용 현황 출력
+slomo <배율> : 에디터의 플레이 속도 조절
+Restart Level : 레벨 재시작
+quit 또는 Exit : 앱 종료
+open <맵 url> : 현재 설정을 유지한 채로 맵 이동
+trabel <맵 url> : 모든 설정 초기화하고 맵 이동
+ToggleDebugCamera : 게임 카메라와 디버깅용 카메라를 전환하기
